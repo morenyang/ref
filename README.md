@@ -5,8 +5,6 @@
 
 ## todos
 
-- 双向数据绑定
-
 ## License
 
 MIT © Moren YANG
